@@ -1,4 +1,4 @@
-## 🎯 Business Value
+## 🎯 VALOR PARA EL NEGOCIO
 
 Este dashboard fue desarrollado utilizando **Excel como herramienta de Business Intelligence**, con el objetivo de transformar datos transaccionales en **reportes interactivos para análisis de desempeño del negocio**.
 
@@ -14,7 +14,7 @@ El objetivo es facilitar **análisis descriptivo y monitoreo de KPIs clave**, ut
 
 ---
 
-## 🧹 Data Preparation (Power Query)
+## 🧹 PROCESAMIENTO DE DATOS (Power Query)
 
 Se implementó un proceso de **ETL utilizando Power Query** para preparar los datos antes del análisis.
 
@@ -33,7 +33,7 @@ Este proceso permitió estructurar los datos de forma adecuada para **análisis 
 
 ---
 
-## 📊 Advanced Excel Analysis
+## 📊 ANÁLISIS AVANZADO EN EXCEL
 
 El análisis fue desarrollado utilizando **funcionalidades avanzadas de Excel orientadas a reporting y análisis multidimensional de datos**.
 
@@ -67,7 +67,7 @@ También se implementaron **técnicas avanzadas de visualización**, incluyendo:
 
 ---
 
-### 📌 Métricas analizadas
+### 📌 Métricas Analizadas
 
 Las métricas analizadas incluyen **indicadores clave de desempeño**:
 
@@ -81,7 +81,7 @@ Para el análisis interanual se implementaron **cálculos de comparación contra
 
 ---
 
-## 🧩 Data Model
+## 🧩 Modelado de Datos
 
 Se implementó un **modelo dimensional tipo Star Schema** dentro del **Excel Data Model**, permitiendo realizar análisis desde múltiples dimensiones del negocio.
 
@@ -104,17 +104,17 @@ Durante el desarrollo se comprendió también el funcionamiento del **Pivot Cach
 
 ---
 
-## 🚀 Skills Demonstrated
+## 🚀 Habilidades Demonstradas
 
-- **Advanced Excel for Data Analysis**
-- **Pivot Tables & Pivot Charts**
-- **Interactive Dashboards in Excel**
-- **Slicers for Dynamic Filtering**
-- **Excel Data Model**
-- **Power Query (ETL & Data Transformation)**
-- **Dimensional Data Modeling (Star Schema)**
-- **KPI Design & Performance Indicators**
-- **Advanced Chart Formatting**
-- **Data Cleaning & Data Preparation**
-- **Business Intelligence Reporting**
-- **Analytical Problem Solving**
+- **Excel Avanzado para Análisis de Datos**
+- **Tablas Dinámicas y Gráficos Dinámicos**
+- **Dashboards Interactivos en Excel**
+- **Segmentadores (Slicers) para Filtrado Dinámico**
+- **Modelo de Datos de Excel**
+- **Power Query (ETL y Transformación de Datos)**
+- **Modelado Dimensional de Datos (Star Schema)**
+- **Diseño de KPIs e Indicadores de Desempeño**
+- **Formateo Avanzado de Gráficos**
+- **Limpieza y Preparación de Datos**
+- **Reportería de Business Intelligence**
+- **Resolución Analítica de Problemas**
