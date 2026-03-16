@@ -1,6 +1,6 @@
 ## 📊 Dashboard Preview
 
-![Excel Dashboard](Screenshot_Dashb.png)
+![Excel Dashboard](Screenshot_Dashboard.png)
 ## 🎯 DASHBOARD BI AVANZADO EXCEL
 
 Este dashboard fue desarrollado utilizando **Excel como herramienta de Business Intelligence**, con el objetivo de transformar datos transaccionales en **reportes interactivos para análisis de desempeño del negocio**.
