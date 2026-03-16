@@ -107,7 +107,7 @@ Durante el desarrollo se comprendió también el funcionamiento del **Pivot Cach
 
 ---
 
-## 🚀 Habilidades Demonstradas
+## 🚀 Habilidades Demostradas
 
 - **Excel Avanzado para Análisis de Datos**
 - **Tablas Dinámicas y Gráficos Dinámicos**
